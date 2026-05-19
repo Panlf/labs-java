@@ -9,9 +9,9 @@ import javassist.CtField;
 import javassist.CtMethod;
 
 /**
- * 
- * @author Panlf
- *
+ * Javassist测试类
+ * @author panlf
+ * @date 2026/5/19
  */
 public class JavassistTest {
 /*

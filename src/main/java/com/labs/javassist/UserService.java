@@ -1,5 +1,10 @@
 package com.labs.javassist;
 
+/**
+ * 用户服务类
+ * @author panlf
+ * @date 2026/5/19
+ */
 public class UserService {
 
 	public void updateUser(long id) {
